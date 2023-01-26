@@ -1,16 +1,5 @@
-# nasr_city_hospital
+# Nasr City Charity app
 
-A new Flutter project.
+### A freelancing app for NC charity for declaring all its works, charity works, many guideline about the organization and all its branches.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

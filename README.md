@@ -1,5 +1,8 @@
 # Nasr City Charity app
 
-### A freelancing app for NC charity for declaring all its works, charity works, many guideline about the organization and all its branches.
+### A freelancing app for NC charity for declaring all its works, 
+#### charity works, 
+#### information about the charity and 
+#### all its branches.
 
 
